@@ -1,18 +1,3 @@
-/*************************************************************
-
-  This example shows how value can be pushed from Arduino to
-  the Blynk App.
-
-  WARNING :
-  For this example you'll need Adafruit DHT sensor libraries:
-    https://github.com/adafruit/Adafruit_Sensor
-    https://github.com/adafruit/DHT-sensor-library
-
-  App project setup:
-    Value Display widget attached to V5
-    Value Display widget attached to V6
- *************************************************************/
-
 // Template ID, Device Name and Auth Token are provided by the Blynk.Cloud
 // See the Device Info tab, or Template settings
 #define BLYNK_TEMPLATE_ID           "TMPLG90t6JRY"
