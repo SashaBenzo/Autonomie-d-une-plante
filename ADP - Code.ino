@@ -18,8 +18,8 @@ char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Benz";
-char pass[] = "benzazonwifi";
+char ssid[] = "";
+char pass[] = "";
 
 #define DHTPIN 22          // What digital pin we're connected to
 
